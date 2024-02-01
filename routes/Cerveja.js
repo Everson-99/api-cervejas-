@@ -15,3 +15,12 @@ router.get('/cervejas/:id', getCervejasId);//consultar a cerveja pelo id
 export { router };
 
 
+// para adicionar os dados tem que ser assim 
+
+// {
+//     "nome": "corona",
+//     "abv": 4.5,
+//     "tipo": "pilse",
+//     "nacionalidade": "Brasileira"
+//   }
+  
